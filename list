@@ -1,0 +1,19 @@
+# 自定义直连
+
+# Client
+# > yuque
+DOMAIN-SUFFIX,yuque.com
+DOMAIN-SUFFIX,nlark.com
+# > deepl
+DOMAIN-SUFFIX,deepl.com
+# > 88 email
+DOMAIN,imap.88.com
+# > eagle
+DOMAIN-SUFFIX,eagle.cool
+
+# Emby
+DOMAIN,media.nijigem.by
+
+# 网站
+DOMAIN-SUFFIX,newsmth.net
+DOMAIN-SUFFIX,mysmth.net
